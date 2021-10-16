@@ -1,0 +1,19 @@
+server ready
+Accept new connection from 192.168.10.1:43936...
+0.0008492469787597656 seconds past before ('192.168.10.1', 43936) receives data
+Connection from 192.168.10.1:43936 closed.
+Accept new connection from 192.168.20.1:38456...
+0.0239715576171875 seconds past before ('192.168.20.1', 38456) receives data
+Connection from 192.168.20.1:38456 closed.
+Accept new connection from 192.168.30.1:53498...
+0.04636693000793457 seconds past before ('192.168.30.1', 53498) receives data
+Connection from 192.168.30.1:53498 closed.
+Accept new connection from 192.168.40.1:55982...
+0.0687417984008789 seconds past before ('192.168.40.1', 55982) receives data
+Connection from 192.168.40.1:55982 closed.
+Accept new connection from 192.168.50.1:43878...
+0.09089922904968262 seconds past before ('192.168.50.1', 43878) receives data
+Connection from 192.168.50.1:43878 closed.
+Accept new connection from 192.168.60.1:56362...
+0.11407279968261719 seconds past before ('192.168.60.1', 56362) receives data
+Connection from 192.168.60.1:56362 closed.
