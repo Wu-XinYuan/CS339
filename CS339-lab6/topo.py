@@ -43,10 +43,10 @@ def myNetwork():
     c1.start()
 
     info('*** Starting switches\n')
-    s1.start([])
-    s2.start([])
-    s3.start([])
-    s4.start([])
+    s1.start([c1])
+    s2.start([c1])
+    s3.start([c1])
+    s4.start([c1])
 
     info('*** Post configure switches and hosts\n')
 
